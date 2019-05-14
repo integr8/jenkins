@@ -1,3 +1,4 @@
+jdk-tool:latest
 ace-editor:latest
 ant:latest
 antisamy-markup-formatter:latest
